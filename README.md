@@ -8,7 +8,7 @@ uses rFlutter_alert
 uses pacifico font
 
 # screenshots
-![quzzler1](https://ibb.co/20J5jP7)
+![quizzler1](https://user-images.githubusercontent.com/40732836/123644719-3fd0f780-d843-11eb-9947-be4fe996f6c2.jpeg)
 ![quzzler1](https://ibb.co/k2ZM2KN)
 # functionality
 
